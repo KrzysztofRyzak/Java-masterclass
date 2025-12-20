@@ -1,0 +1,16 @@
+# IntelliJ / JetBrains
+.idea/
+*.iml
+out/
+
+# Java compiled files
+*.class
+
+# Maven / Gradle
+target/
+build/
+.gradle/
+
+# OS files
+.DS_Store
+Thumbs.db
